@@ -8,3 +8,12 @@ build/
 .pytest_cache/
 .cache/
 .idea
+
+__pycache__/
+
+instance/
+
+.coverage
+htmlcov/
+
+config.py

@@ -1,0 +1,10 @@
+FlaskEnv/
+*.py[co]
+dist/
+build/
+
+*.egg
+*.egg-info/
+.pytest_cache/
+.cache/
+.idea
